@@ -1,0 +1,8 @@
+uvicorn
+dash
+pandas
+torch
+sentence-transformers
+geopy
+geocoder
+pyarrow[parquet]
